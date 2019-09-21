@@ -24,7 +24,7 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <img src="https://manu2856.github.io/images/Image_UBC.jpg" width="90%" />
 </p>
 
 # Quick Setup
@@ -47,9 +47,9 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ## User settings
 ```yml
 username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_description: Industrial Engineer
+user_title: Manuel Maldonado
+email: 
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -67,7 +67,7 @@ email: mauriurraco@gmail.com
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
 ```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+<a aria-label="My Github" target="_blank" href="https://manu2856.github.io/Hello-World/">
   <i class="icon fa fa-github-alt" aria-hidden="true"></i>
 </a>
 ```
@@ -79,16 +79,3 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 1. Install Jekyll
 2. Run `jekyll build`
 3. Start and http-server in the folder `_site`
-
-# Contribution
-
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
-
-# Donate
-
-`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
-
-`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
