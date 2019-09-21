@@ -1,3 +1,6 @@
+# This was modified by Andres Pitta
+# Also this
+
 # Jekyll Resume Theme
 
 Live demo at https://jekyll-theme-minimal-resume.netlify.com/
